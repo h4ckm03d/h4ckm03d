@@ -18,7 +18,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Golang Test Coverage](https://lumochift.org/posts/golang-test-coverage/)
 - [Golang Om Telolet Om Server](https://lumochift.org/posts/golang-om-telolet-om-server/)
 - [Golang Unit Test](https://lumochift.org/posts/golang-unit-test/)
-- [Golang Unit Test 101](https://lumochift.org/posts/practical-unit-test/)
 - [Struct](https://lumochift.org/posts/struct/)
 - [Pointer](https://lumochift.org/posts/pointer/)
 - [Hello World](https://lumochift.org/posts/hello-world/)
