@@ -19,7 +19,7 @@ jobs:
       - name: Commit & Push
         run: |
           git config user.name h4ckm03d
-          git config user.email kapten.lufi+profile3d@gmail.com
+          git config user.email kapten.lufi@gmail.com
           git add -A .
           git commit -m "Personal 3d Contributions images updated"
           git push
