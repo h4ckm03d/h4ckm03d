@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go S.O.L.I.D: The Single Responsibility Principle](https://lumochift.org/blog/go-solid)
 - [Coding Practice: Minimum Number of Arrows to Burst Balloons](https://lumochift.org/blog/cp-leetcode-452)
 - [Coding Practice: Word Search](https://lumochift.org/blog/cp-word-search)
 - [pg_stat_statements in action](https://lumochift.org/blog/pg-statement-in-action)
