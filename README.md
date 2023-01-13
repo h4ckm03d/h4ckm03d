@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Become the software engineer](https://lumochift.org/blog/career/becomeswe)
 - [Reverse In Parentheses](https://lumochift.org/blog/cp/reverseInParentheses)
 - [Palindrome string](https://lumochift.org/blog/cp/palindrome)
 - [Buffered vs non buffered file IO using go](https://lumochift.org/blog/showdown-go/fileio-comparison)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Golang Unit Test](https://lumochift.org/blog/golang-unit-test)
 - [Struct](https://lumochift.org/blog/struct)
 - [Pointer](https://lumochift.org/blog/pointer)
-- [Computer Science for Humanities](https://lumochift.org/blog/computer-science-for-humanities)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
