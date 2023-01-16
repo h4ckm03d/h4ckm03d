@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Palindrome Rearrange](https://lumochift.org/blog/cp/palindromeRearrange)
 - [Iterate digit by given integer](https://lumochift.org/blog/cp/iterateNumber)
 - [Text normalization](https://lumochift.org/blog/snippets/textNormalization)
 - [Become the software engineer](https://lumochift.org/blog/career/becomeswe)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Tips dan trik unit test di Go](https://lumochift.org/blog/tips-trik-unit-test-golang)
 - [Golang Test Coverage](https://lumochift.org/blog/golang-test-coverage)
 - [Golang Om Telolet Om Server](https://lumochift.org/blog/golang-om-telolet-om-server)
-- [Golang Unit Test](https://lumochift.org/blog/golang-unit-test)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
