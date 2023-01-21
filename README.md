@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TOTP based on RFC 6238](https://lumochift.org/blog/totp)
 - [Practical Go: Functional Options Pattern](https://lumochift.org/blog/practical-go/functional-option-pattern)
 - [Minesweeper](https://lumochift.org/blog/cp/minesweeper)
 - [Artificial Neural Network](https://lumochift.org/blog/math-ann)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [pg_stat_statements in action](https://lumochift.org/blog/pg-statement-in-action)
 - [Prefer precise string types](https://lumochift.org/blog/prefer-precise-string-types)
 - [Golang SQL Database](https://lumochift.org/blog/golang-koneksi-database)
-- [Binary Operator Hack and Tricks](https://lumochift.org/blog/binary-operator)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
