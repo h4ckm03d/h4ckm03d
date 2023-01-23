@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode biweekly contest 96](https://lumochift.org/blog/cp/biweekly-contest-96)
 - [Rate limiter in Go](https://lumochift.org/blog/ratelimit)
 - [TOTP based on RFC 6238](https://lumochift.org/blog/totp)
 - [Practical Go: Functional Options Pattern](https://lumochift.org/blog/practical-go/functional-option-pattern)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Coding Practice: Minimum Number of Arrows to Burst Balloons](https://lumochift.org/blog/cp/cp-leetcode-452)
 - [Coding Practice: Word Search](https://lumochift.org/blog/cp/cp-word-search)
 - [pg_stat_statements in action](https://lumochift.org/blog/pg-statement-in-action)
-- [Prefer precise string types](https://lumochift.org/blog/prefer-precise-string-types)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
