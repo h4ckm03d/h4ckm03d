@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculating the Sum of Squares of Integers in Go](https://lumochift.org/blog/cp/loopwithoutfor)
 - [XSS - Cross Site Scripting Vulnerability](https://lumochift.org/blog/security/xss)
 - [Leetcode biweekly contest 96](https://lumochift.org/blog/cp/biweekly-contest-96)
 - [Rate limiter in Go](https://lumochift.org/blog/ratelimit)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Practical Go: Dockerize go apps](https://lumochift.org/blog/practical-go/dockerize-go-app)
 - [Go S.O.L.I.D: The Single Responsibility Principle](https://lumochift.org/blog/go-solid)
 - [Coding Practice: Minimum Number of Arrows to Burst Balloons](https://lumochift.org/blog/cp/cp-leetcode-452)
-- [Coding Practice: Word Search](https://lumochift.org/blog/cp/cp-word-search)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
