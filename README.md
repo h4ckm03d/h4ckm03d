@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rotate Matrix](https://lumochift.org/blog/cp/rotate-matrix)
 - [Custom Tree Traversal](https://lumochift.org/blog/dsa/tree-traversal)
 - [Calculating the Sum of Squares of Integers in Go](https://lumochift.org/blog/cp/loopwithoutfor)
 - [XSS - Cross Site Scripting Vulnerability](https://lumochift.org/blog/security/xss)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Buffered vs non buffered file IO using go](https://lumochift.org/blog/showdown-go/fileio-comparison)
 - [Data Structure: Tree](https://lumochift.org/blog/dsa/tree)
 - [Practical Go: Dockerize go apps](https://lumochift.org/blog/practical-go/dockerize-go-app)
-- [Go S.O.L.I.D: The Single Responsibility Principle](https://lumochift.org/blog/go-solid)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
