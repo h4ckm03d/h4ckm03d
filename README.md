@@ -9,12 +9,13 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove Element from the single linked list](https://lumochift.org/blog/dsa/linked-list/remove-element-k)
 - [Check 2 strings are following patterns](https://lumochift.org/blog/dsa/hash/follow-pattern)
 - [Median of Two Sorted Arrays](https://lumochift.org/blog/cp/median-of-2-sorted-array)
-- [Check symmetric binary tree](https://lumochift.org/blog/dsa/mirrorred-binary-tree)
+- [Check symmetric binary tree](https://lumochift.org/blog/dsa/tree/mirrorred-binary-tree)
 - [Custom JSON marshal/unmarshal](https://lumochift.org/blog/practical-go/custom-json-marshaller)
 - [Rotate Matrix](https://lumochift.org/blog/cp/rotate-matrix)
-- [Custom Tree Traversal](https://lumochift.org/blog/dsa/tree-traversal)
+- [Custom Tree Traversal](https://lumochift.org/blog/dsa/tree/tree-traversal)
 - [Calculating the Sum of Squares of Integers in Go](https://lumochift.org/blog/cp/loopwithoutfor)
 - [XSS - Cross Site Scripting Vulnerability](https://lumochift.org/blog/security/xss)
 - [Leetcode biweekly contest 96](https://lumochift.org/blog/cp/biweekly-contest-96)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Iterate digit by given integer](https://lumochift.org/blog/cp/iterateNumber)
 - [Text normalization](https://lumochift.org/blog/snippets/textNormalization)
 - [Become the software engineer](https://lumochift.org/blog/career/becomeswe)
-- [Reverse In Parentheses](https://lumochift.org/blog/cp/reverseInParentheses)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
