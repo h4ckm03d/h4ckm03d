@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Word Boggle](https://lumochift.org/blog/cp/wordboggle)
 - [Single linked list trick collection](https://lumochift.org/blog/dsa/linked-list/reverse)
 - [kthSmallestInBST](https://lumochift.org/blog/dsa/tree/kthSmallestInBST)
 - [Single linked list palindrome](https://lumochift.org/blog/dsa/linked-list/palindrome)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Minesweeper](https://lumochift.org/blog/cp/minesweeper)
 - [Artificial Neural Network](https://lumochift.org/blog/math-ann)
 - [What company you must choose ?](https://lumochift.org/blog/career/whatcompany)
-- [Palindrome Rearrange](https://lumochift.org/blog/cp/palindromeRearrange)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
