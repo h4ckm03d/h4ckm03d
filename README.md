@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Race Condition](https://lumochift.org/blog/practical-go/data-race)
 - [ACID Properties in DBMS](https://lumochift.org/blog/general/acid)
 - [N Queens](https://lumochift.org/blog/cp/n-queens)
 - [Word Boggle](https://lumochift.org/blog/cp/wordboggle)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Rate limiter in Go](https://lumochift.org/blog/ratelimit)
 - [TOTP based on RFC 6238](https://lumochift.org/blog/totp)
 - [Practical Go: Functional Options Pattern](https://lumochift.org/blog/practical-go/functional-option-pattern)
-- [Minesweeper](https://lumochift.org/blog/cp/minesweeper)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
