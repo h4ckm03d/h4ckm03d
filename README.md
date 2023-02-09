@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [number solitair](https://lumochift.org/blog/cp/solitair)
 - [Race Condition](https://lumochift.org/blog/practical-go/data-race)
 - [ACID Properties in DBMS](https://lumochift.org/blog/general/acid)
 - [N Queens](https://lumochift.org/blog/cp/n-queens)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Leetcode biweekly contest 96](https://lumochift.org/blog/cp/biweekly-contest-96)
 - [Rate limiter in Go](https://lumochift.org/blog/ratelimit)
 - [TOTP based on RFC 6238](https://lumochift.org/blog/totp)
-- [Practical Go: Functional Options Pattern](https://lumochift.org/blog/practical-go/functional-option-pattern)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
