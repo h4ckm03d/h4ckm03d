@@ -28,7 +28,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [XSS - Cross Site Scripting Vulnerability](https://lumochift.org/blog/security/xss)
 - [Leetcode biweekly contest 96](https://lumochift.org/blog/cp/biweekly-contest-96)
 - [Rate limiter in Go](https://lumochift.org/blog/ratelimit)
-- [TOTP based on RFC 6238](https://lumochift.org/blog/totp)
+- [TOTP based on RFC 6238](https://lumochift.org/blog/general/totp)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
