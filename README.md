@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Semver sort](https://lumochift.org/blog/cp/semver-sort)
 - [Software Engineer is not a Code Monkey](https://lumochift.org/blog/career/dont-be-a-code-monkey)
 - [Context Cancellation With Cause](https://lumochift.org/blog/practical-go/cancelWithClause)
 - [number solitair](https://lumochift.org/blog/cp/solitair)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Custom Tree Traversal](https://lumochift.org/blog/dsa/tree/tree-traversal)
 - [Calculating the Sum of Squares of Integers in Go](https://lumochift.org/blog/cp/loopwithoutfor)
 - [XSS - Cross Site Scripting Vulnerability](https://lumochift.org/blog/security/xss)
-- [Leetcode biweekly contest 96](https://lumochift.org/blog/cp/biweekly-contest-96)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
