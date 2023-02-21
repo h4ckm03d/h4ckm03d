@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Behavioral Questions](https://lumochift.org/blog/career/behavioral-questions)
 - [The Effective Engineer by Edmond Lau](https://lumochift.org/blog/book/effective-engineer)
 - [Two sum Problem](https://lumochift.org/blog/cp/two-sum)
 - [Find the longest path file](https://lumochift.org/blog/cp/longest-path-file)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Single linked list trick collection](https://lumochift.org/blog/dsa/linked-list/reverse)
 - [kthSmallestInBST](https://lumochift.org/blog/dsa/tree/kthSmallestInBST)
 - [Single linked list palindrome](https://lumochift.org/blog/dsa/linked-list/palindrome)
-- [Remove Element from the single linked list](https://lumochift.org/blog/dsa/linked-list/remove-element-k)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
