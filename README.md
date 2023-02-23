@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello GRPC](https://lumochift.org/blog/practical-go/grpc)
 - [Book Review: Atomic Habits by James Clear](https://lumochift.org/blog/book/atomic-habit)
 - [Behavioral Questions](https://lumochift.org/blog/career/behavioral-questions)
 - [Book Review: The Effective Engineer by Edmond Lau](https://lumochift.org/blog/book/effective-engineer)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [N Queens](https://lumochift.org/blog/cp/n-queens)
 - [Word Boggle](https://lumochift.org/blog/cp/wordboggle)
 - [Single linked list trick collection](https://lumochift.org/blog/dsa/linked-list/reverse)
-- [kthSmallestInBST](https://lumochift.org/blog/dsa/tree/kthSmallestInBST)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
