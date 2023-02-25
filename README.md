@@ -9,7 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Review: Ikigai](https://lumochift.org/blog/book/ikigai)
+- [Book Review: Ikigai - The Japanese Secret to a Long and Happy Life](https://lumochift.org/blog/book/ikigai)
 - [Golang for Distributed Systems?](https://lumochift.org/blog/distributed-system-go)
 - [Hello GRPC](https://lumochift.org/blog/practical-go/grpc)
 - [Book Review: Atomic Habits by James Clear](https://lumochift.org/blog/book/atomic-habit)
