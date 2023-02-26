@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [sqlc: An Introduction to SQL Compilation](https://lumochift.org/blog/practical-go/sqlc-intro)
 - [Book Review: Ikigai - The Japanese Secret to a Long and Happy Life](https://lumochift.org/blog/book/ikigai)
 - [Golang for Distributed Systems?](https://lumochift.org/blog/distributed-system-go)
 - [Hello GRPC](https://lumochift.org/blog/practical-go/grpc)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [number solitair](https://lumochift.org/blog/cp/solitair)
 - [Race Condition](https://lumochift.org/blog/practical-go/data-race)
 - [ACID Properties in DBMS](https://lumochift.org/blog/general/acid)
-- [N Queens](https://lumochift.org/blog/cp/n-queens)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
