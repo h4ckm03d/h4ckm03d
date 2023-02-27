@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shrink virtual disk on WSL](https://lumochift.org/blog/snippets/shrink-wsl-disk)
 - [sqlc: An Introduction to SQL Compilation](https://lumochift.org/blog/practical-go/sqlc-intro)
 - [Book Review: Ikigai - The Japanese Secret to a Long and Happy Life](https://lumochift.org/blog/book/ikigai)
 - [Golang for Distributed Systems?](https://lumochift.org/blog/distributed-system-go)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Context Cancellation With Cause](https://lumochift.org/blog/practical-go/cancelWithClause)
 - [number solitair](https://lumochift.org/blog/cp/solitair)
 - [Race Condition](https://lumochift.org/blog/practical-go/data-race)
-- [ACID Properties in DBMS](https://lumochift.org/blog/general/acid)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
