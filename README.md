@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [House Robber Problem](https://lumochift.org/blog/dp/house-robber)
 - [Rearrange Last N](https://lumochift.org/blog/dsa/linked-list/rearrangeLastN)
 - [Shrink virtual disk on WSL](https://lumochift.org/blog/snippets/shrink-wsl-disk)
 - [sqlc: An Introduction to SQL Compilation](https://lumochift.org/blog/practical-go/sqlc-intro)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Semver sort](https://lumochift.org/blog/cp/semver-sort)
 - [Software Engineer is not a Code Monkey](https://lumochift.org/blog/career/dont-be-a-code-monkey)
 - [Context Cancellation With Cause](https://lumochift.org/blog/practical-go/cancelWithClause)
-- [number solitair](https://lumochift.org/blog/cp/solitair)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
