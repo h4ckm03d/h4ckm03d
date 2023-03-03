@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Easy: Pair with Target Sum](https://lumochift.org/blog/pattern/two-pointer/pair-with-target)
 - [Easy: Single Number](https://lumochift.org/blog/pattern/xor/single-number)
 - [House Robber Problem](https://lumochift.org/blog/dp/house-robber)
 - [Rearrange Last N](https://lumochift.org/blog/dsa/linked-list/rearrangeLastN)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Restore binary tree](https://lumochift.org/blog/dsa/tree/construct-btree-from-inorder-preorder)
 - [Fibonacci with dynamic programming](https://lumochift.org/blog/cp/fibonacchi-dp)
 - [Semver sort](https://lumochift.org/blog/cp/semver-sort)
-- [Software Engineer is not a Code Monkey](https://lumochift.org/blog/career/dont-be-a-code-monkey)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
