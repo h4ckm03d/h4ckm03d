@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hard: Sherlock and valid string](https://lumochift.org/blog/cp/sherlock-and-valid-string)
 - [Decimal benchmark](https://lumochift.org/blog/showdown-go/decimal-benchmark)
 - [Hard: Array manipulation](https://lumochift.org/blog/cp/array-manipulation)
 - [Handling decimal values](https://lumochift.org/blog/practical-go/handling-decimal)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Find the longest path file](https://lumochift.org/blog/cp/longest-path-file)
 - [Simple Reverse Proxy](https://lumochift.org/blog/practical-go/reverseProxy)
 - [Digit anagrams](https://lumochift.org/blog/cp/digit-anagrams)
-- [Find substring](https://lumochift.org/blog/dsa/tree/findSubstring)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
