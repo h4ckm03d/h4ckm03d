@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding Common Pitfalls in System Design Interviews](https://lumochift.org/blog/career/tips-sdi)
 - [System design interview](https://lumochift.org/blog/career/system-design-interview)
 - [Street Play in HackerLand](https://lumochift.org/blog/cp/lightshow)
 - [Vowel Substring](https://lumochift.org/blog/pattern/sliding-windows/vowelsubstring)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Hello GRPC](https://lumochift.org/blog/practical-go/grpc)
 - [Book Review: Atomic Habits by James Clear](https://lumochift.org/blog/book/atomic-habit)
 - [Behavioral Questions](https://lumochift.org/blog/career/behavioral-questions)
-- [Book Review: The Effective Engineer by Edmond Lau](https://lumochift.org/blog/book/effective-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
