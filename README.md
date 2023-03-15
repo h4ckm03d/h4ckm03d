@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowflake](https://lumochift.org/blog/general/snowflake)
 - [Date conversion](https://lumochift.org/blog/practical-go/dateconversion)
 - [SQL vs NoSQL](https://lumochift.org/blog/general/sqlvsnosql)
 - [Avoiding Common Pitfalls in System Design Interviews](https://lumochift.org/blog/career/tips-sdi)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [sqlc: An Introduction to SQL Compilation](https://lumochift.org/blog/practical-go/sqlc-intro)
 - [Book Review: Ikigai - The Japanese Secret to a Long and Happy Life](https://lumochift.org/blog/book/ikigai)
 - [Golang for Distributed Systems?](https://lumochift.org/blog/distributed-system-go)
-- [Hello GRPC](https://lumochift.org/blog/practical-go/grpc)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
