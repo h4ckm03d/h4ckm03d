@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Stack and Heap Memory in Go](https://lumochift.org/blog/practical-go/stack-heap)
 - [Soft Skills for Software Engineers](https://lumochift.org/blog/career/softskill-swe)
 - [Snowflake](https://lumochift.org/blog/general/snowflake)
 - [Date conversion](https://lumochift.org/blog/practical-go/dateconversion)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Rearrange Last N](https://lumochift.org/blog/dsa/linked-list/rearrangeLastN)
 - [Shrink virtual disk on WSL](https://lumochift.org/blog/snippets/shrink-wsl-disk)
 - [sqlc: An Introduction to SQL Compilation](https://lumochift.org/blog/practical-go/sqlc-intro)
-- [Book Review: Ikigai - The Japanese Secret to a Long and Happy Life](https://lumochift.org/blog/book/ikigai)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
