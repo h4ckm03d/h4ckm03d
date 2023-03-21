@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Directed Graph](https://lumochift.org/blog/dsa/graph/intro-graph)
 - [Sudoku checker](https://lumochift.org/blog/cp/sudoku-checker)
 - [Implementing a Priority Queue Using Heap in Go](https://lumochift.org/blog/practical-go/priority-queue)
 - [Introduction of generic in Golang](https://lumochift.org/blog/practical-go/intro-generic)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Handling decimal values](https://lumochift.org/blog/practical-go/handling-decimal)
 - [Easy: Pair with Target Sum](https://lumochift.org/blog/pattern/two-pointer/pair-with-target)
 - [Easy: Single Number](https://lumochift.org/blog/pattern/xor/single-number)
-- [House Robber Problem](https://lumochift.org/blog/dp/house-robber)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
