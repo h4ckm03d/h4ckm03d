@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unit Testing in Golang](https://lumochift.org/blog/practical-unit-test)
 - [Contains duplicate Problem](https://lumochift.org/blog/cp/containsDuplicateWithRust)
 - [Slice vs Array](https://lumochift.org/blog/practical-go/slice)
 - [Build Directed Graph](https://lumochift.org/blog/dsa/graph/intro-graph)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Hard: Sherlock and valid string](https://lumochift.org/blog/cp/sherlock-and-valid-string)
 - [Decimal benchmark](https://lumochift.org/blog/showdown-go/decimal-benchmark)
 - [Hard: Array manipulation](https://lumochift.org/blog/cp/array-manipulation)
-- [Handling decimal values](https://lumochift.org/blog/practical-go/handling-decimal)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
