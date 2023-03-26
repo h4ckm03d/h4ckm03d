@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [XID: The GUID Alternative](https://lumochift.org/blog/practical-go/xid-the-guid-alternative)
 - [Auto Scaling](https://lumochift.org/blog/devops/autoscaling)
 - [Unit Testing in Golang](https://lumochift.org/blog/practical-unit-test)
 - [Contains duplicate Problem](https://lumochift.org/blog/cp/containsDuplicateWithRust)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Vowel Substring](https://lumochift.org/blog/pattern/sliding-windows/vowelsubstring)
 - [Staircase problem](https://lumochift.org/blog/dp/staircase)
 - [Hard: Sherlock and valid string](https://lumochift.org/blog/cp/sherlock-and-valid-string)
-- [Decimal benchmark](https://lumochift.org/blog/showdown-go/decimal-benchmark)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
