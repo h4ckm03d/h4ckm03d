@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to check if a type satisfies an interface at runtime in Go](https://lumochift.org/blog/practical-go/check-satisfy-interface)
 - [XID: The GUID Alternative](https://lumochift.org/blog/practical-go/xid-the-guid-alternative)
 - [Auto Scaling](https://lumochift.org/blog/devops/autoscaling)
 - [Unit Testing in Golang](https://lumochift.org/blog/practical-unit-test)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Street Play in HackerLand](https://lumochift.org/blog/cp/lightshow)
 - [Vowel Substring](https://lumochift.org/blog/pattern/sliding-windows/vowelsubstring)
 - [Staircase problem](https://lumochift.org/blog/dp/staircase)
-- [Hard: Sherlock and valid string](https://lumochift.org/blog/cp/sherlock-and-valid-string)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
