@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction Profiling http server in go](https://lumochift.org/blog/practical-go/profiling-server)
 - [Practical Go: Using return pointer or not?](https://lumochift.org/blog/practical-go/pointer-or-not)
 - [How to check if a type satisfies an interface at runtime in Go](https://lumochift.org/blog/practical-go/check-satisfy-interface)
 - [XID: The GUID Alternative](https://lumochift.org/blog/practical-go/xid-the-guid-alternative)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Avoiding Common Pitfalls in System Design Interviews](https://lumochift.org/blog/career/tips-sdi)
 - [System design interview](https://lumochift.org/blog/career/system-design-interview)
 - [Street Play in HackerLand](https://lumochift.org/blog/cp/lightshow)
-- [Vowel Substring](https://lumochift.org/blog/pattern/sliding-windows/vowelsubstring)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
