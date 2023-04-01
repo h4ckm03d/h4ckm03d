@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why a Strong Work Ethic Matters in Hiring Engineers](https://lumochift.org/blog/career/strong-ethics)
 - [An Introduction to Go Modules](https://lumochift.org/blog/practical-go/intro-module)
 - [Installing ArgoCD on k3s](https://lumochift.org/blog/devops/k3s-argocd)
 - [Introduction Profiling http server in go](https://lumochift.org/blog/practical-go/profiling-server)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Snowflake](https://lumochift.org/blog/general/snowflake)
 - [Date conversion](https://lumochift.org/blog/practical-go/dateconversion)
 - [SQL vs NoSQL](https://lumochift.org/blog/general/sqlvsnosql)
-- [Avoiding Common Pitfalls in System Design Interviews](https://lumochift.org/blog/career/tips-sdi)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
