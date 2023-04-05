@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Practical Go: Impact of Data Structure Position on Size of Struct](/blog/struct-position-matters)
 - [Using Parquet with Go: A Beginner&#39;s Guide](/blog/parquet-go)
 - [Puzzle: Solve a cryptarithm problem with Go](/blog/is-crypt-solution)
 - [Kubernetes Resource Requests and Limits](/blog/resource-requests-and-limits)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Implementing a Priority Queue Using Heap in Go](/blog/priority-queue)
 - [Introduction of generic in Golang](/blog/intro-generic)
 - [Understanding Stack and Heap Memory in Go](/blog/stack-heap)
-- [Soft Skills for Software Engineers](/blog/softskill-swe)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
