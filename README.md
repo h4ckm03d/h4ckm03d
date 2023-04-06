@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Blank Identifier in Go: A Swiss Army Knife for the Discerning Developer](/blog/blank-identifier)
 - [Practical Go: Impact of Data Structure Position on Size of Struct](/blog/struct-position-matters)
 - [Using Parquet with Go: A Beginner&#39;s Guide](/blog/parquet-go)
 - [Puzzle: Solve a cryptarithm problem with Go](/blog/is-crypt-solution)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Sudoku checker](/blog/sudoku-checker)
 - [Implementing a Priority Queue Using Heap in Go](/blog/priority-queue)
 - [Introduction of generic in Golang](/blog/intro-generic)
-- [Understanding Stack and Heap Memory in Go](/blog/stack-heap)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
