@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stateless Server: The Benefits of Storing Data Outside of the Server](/blog/stateless-server)
 - [Understanding Different Authentication Methods: Password, Session, Cookie, Token, JWT, SSO, and OAuth](/blog/understanding-auth)
 - [Building a Rule Engine for a Loyalty Program in Golang](/blog/simple-rule-engine)
 - [The Power of People: Why Building Relationships is Crucial for Your Career](/blog/the-people-power)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Unit Testing in Golang](/blog/practical-unit-test)
 - [Contains duplicate Problem](/blog/containsDuplicateWithRust)
 - [Slice vs Array](/blog/slice)
-- [Build Directed Graph](/blog/intro-graph)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
