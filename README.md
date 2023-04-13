@@ -9,6 +9,8 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Colima](/blog/colima-in-action)
+- [Colima - container runtimes on macOS &lpar;and Linux&rpar;](/blog/colima-intro)
 - [Book Review: Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal](/blog/build-in-public)
 - [Stateless Server: The Benefits of Storing Data Outside of the Server](/blog/stateless-server)
 - [Understanding Different Authentication Methods: Password, Session, Cookie, Token, JWT, SSO, and OAuth](/blog/understanding-auth)
@@ -27,8 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [How to check if a type satisfies an interface at runtime in Go](/blog/check-satisfy-interface)
 - [XID: The GUID Alternative](/blog/xid-the-guid-alternative)
 - [Auto Scaling](/blog/autoscaling)
-- [Unit Testing in Golang](/blog/practical-unit-test)
-- [Contains duplicate Problem](/blog/containsDuplicateWithRust)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
