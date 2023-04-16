@@ -9,6 +9,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Practical Go: Learn about return interface](/blog/return-interface)
 - [Husky for golang: Guard your commit against the bad codes](/blog/commit-guardian)
 - [Getting Started with Colima](/blog/colima-in-action)
 - [Colima - container runtimes on macOS &lpar;and Linux&rpar;](/blog/colima-intro)
@@ -28,7 +29,6 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 - [Introduction Profiling http server in go](/blog/profiling-server)
 - [Practical Go: Using return pointer or not?](/blog/pointer-or-not)
 - [How to check if a type satisfies an interface at runtime in Go](/blog/check-satisfy-interface)
-- [XID: The GUID Alternative](/blog/xid-the-guid-alternative)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
