@@ -10,7 +10,7 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 
 <!-- BLOG-POST-LIST:START -->
 - [Practical Go: Learn about return interface](/blog/return-interface)
-- [Husky for golang: Guard your commit against the bad codes](/blog/commit-guardian)
+- [Husky for Go: Guard your commit against the bad codes](/blog/commit-guardian)
 - [Getting Started with Colima](/blog/colima-in-action)
 - [Colima - container runtimes on macOS &lpar;and Linux&rpar;](/blog/colima-intro)
 - [Book Review: Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal](/blog/build-in-public)
