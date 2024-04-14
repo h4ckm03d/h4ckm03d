@@ -9,16 +9,16 @@ Isometric view of contributions in the last year. Languages pie is based on rece
 # :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Go: Learn about return interface](https://lumochift.org/blog/return-interface)
-- [Husky for Go: Guard your commit against the bad codes](https://lumochift.org/blog/commit-guardian)
-- [Getting Started with Colima](https://lumochift.org/blog/colima-in-action)
-- [Colima - container runtimes on macOS &lpar;and Linux&rpar;](https://lumochift.org/blog/colima-intro)
-- [Book Review: Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal](https://lumochift.org/blog/build-in-public)
-- [Stateless Server: The Benefits of Storing Data Outside of the Server](https://lumochift.org/blog/stateless-server)
-- [Understanding Different Authentication Methods: Password, Session, Cookie, Token, JWT, SSO, and OAuth](https://lumochift.org/blog/understanding-auth)
-- [Building a Rule Engine for a Loyalty Program in Golang](https://lumochift.org/blog/simple-rule-engine)
-- [The Power of People: Why Building Relationships is Crucial for Your Career](https://lumochift.org/blog/the-people-power)
-- [The Blank Identifier in Go: A Swiss Army Knife for the Discerning Developer](https://lumochift.org/blog/blank-identifier)
+- [Practical Go: Learn about return interface](https://lumochift.org/blog/return-interface/)
+- [Husky for Go: Guard your commit against the bad codes](https://lumochift.org/blog/commit-guardian/)
+- [Getting Started with Colima](https://lumochift.org/blog/colima-in-action/)
+- [Colima - container runtimes on macOS &lpar;and Linux&rpar;](https://lumochift.org/blog/colima-intro/)
+- [Book Review: Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal](https://lumochift.org/blog/build-in-public/)
+- [Stateless Server: The Benefits of Storing Data Outside of the Server](https://lumochift.org/blog/stateless-server/)
+- [Understanding Different Authentication Methods: Password, Session, Cookie, Token, JWT, SSO, and OAuth](https://lumochift.org/blog/understanding-auth/)
+- [Building a Rule Engine for a Loyalty Program in Golang](https://lumochift.org/blog/simple-rule-engine/)
+- [The Power of People: Why Building Relationships is Crucial for Your Career](https://lumochift.org/blog/the-people-power/)
+- [The Blank Identifier in Go: A Swiss Army Knife for the Discerning Developer](https://lumochift.org/blog/blank-identifier/)
 <!-- BLOG-POST-LIST:END -->
 
 # :dizzy: Metrics and Statistics
